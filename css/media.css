@@ -1,0 +1,70 @@
+@media (max-width: 767px) { 
+
+
+#download_app{
+    width: 100%;
+    background-image: url(../img/downloadbackground.jpg);
+    background-size: cover;
+    height: 400px;
+  
+}
+
+.down h2{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+footer{
+    background-color: #353854;
+    min-height: 270px;
+    
+}
+
+
+
+
+.cstm_button{
+    padding: 0;
+    background: black;
+    border: none;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
+}
+@media (min-width: 768px) and (max-width: 991px) { 
+
+
+.custom_list li a{
+
+    color:#e1e1e1
+    !important;
+    font-size: 15px;
+    padding-left: 0px !important;
+} 
+
+
+
+
+
+}
+@media (min-width: 992px) and (max-width:1199px) {
+    
+    .custom_list li a{
+
+    color:#e1e1e1
+    !important;
+    font-size: 15px;
+    padding-left: 10px !important;
+    
+    
+    
+}
+@media (min-width: 1200px) { 
+}

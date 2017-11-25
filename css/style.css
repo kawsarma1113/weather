@@ -1,0 +1,265 @@
+header{
+    background-image: url(../img/headerbackground.jpg);
+    background-size: cover;
+    min-height: 658px;
+    
+}
+.logo{
+    margin-top: 20px;
+}
+
+.navigation_custom{
+    background-color: transparent !important;
+    border: none;
+    margin-top: 10px;
+    
+    
+}
+
+.custom_list li a{
+
+    color:#e1e1e1
+    !important;
+    font-size: 15px;
+    padding-left: 40px !important;
+} 
+.custom_list li a:hover{
+    color: white !important;
+}
+
+
+.social_logo{
+     margin-top: 20px;
+
+}
+
+.social_logo a{
+    padding-left: 30px;
+}
+.header_details{
+    margin-top: 180px;
+}
+
+
+.header_details h1{
+    color: white !important;
+  font-weight: bold;
+}
+
+
+.header_details p{
+    color: white !important;
+
+}
+
+
+.header_details a{
+    color: white !important;
+    padding: 10px 25px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+.scrool_down{
+margin-top: 200px;
+}
+
+
+#middle_sec{
+    background-image: url(../img/middlesectionbackground.jpg);
+    background-size: cover;
+    background-position: center;
+
+    
+
+}
+
+.feaures{
+    margin-top: 100px;
+}
+.feaures h1{
+    color: #648cff;
+}
+.feaures p{
+    color: #999999;
+    margin-top: 50px;
+}
+
+
+.uslogo img{
+    margin-top: 20px;
+}
+
+
+.usabi h4{
+    color: #353854;
+    font-weight: bold;
+}
+
+
+.usabi p{
+    color: #aeaeae;
+    line-height: 30px;
+}
+
+}
+.widget{
+    margin-top: 100px;
+}
+.widget h1{
+    color: #648cff;
+    font-weight: bold;
+}
+.widget p{
+    color: #999999;
+    margin-top: 20px;
+}
+
+.indicator img{
+    position: absolute;
+    top:50%;
+}
+.slider{
+    margin-top: 50px;
+    
+}
+.screenshot{
+    margin-top: 100px;
+}
+.screenshot h2{
+    color: #648cff;
+    font-weight: bold;
+}
+.screenshot p{
+    color: #999999;
+    margin-top: 20px;
+}
+
+
+
+
+.cld{
+    margin-top: 100px;
+}
+.cloudy_para{
+    margin-top: 150px;
+}
+
+
+
+.cloudy_para h1{
+    color: #648cff;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+
+.cloudy_para p{
+    color: #353854;
+    margin-top: 30px;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+
+
+.people_say{
+    margin-top: 50px;
+}
+.people_say h3{
+    color: #648cff;
+    font-weight: bold;
+}
+.people_say p{
+    color: #999999;
+    margin-top: 20px;
+}
+
+
+.say_people{
+    margin-top: 50px;
+}
+.say_people p{
+    font-weight: bold;
+    line-height: 30px;
+    color: #353854;
+}
+.say_people span{
+    font-weight: bold;
+    color: #353854;
+}
+.say_people h1{
+    font-weight: 800;
+    color: #648cff;
+}
+
+
+#download_app{
+    width: 100%;
+    background-image: url(../img/downloadbackground.jpg);
+    background-size: cover;
+    height: 350px;
+  
+}
+
+
+
+
+.down{
+    margin-top: 100px;
+}
+
+.down h2{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+.down p{
+    color: white;
+    margin-top: 20px;
+    line-height: 30px;
+}
+
+footer{
+    background-color: #353854;
+    min-height: 261px;
+    
+}
+.footer{margin-top: 50px;
+border-bottom: 1px solid #648cff;}
+
+.cstm_button{
+    padding: 0;
+    background: black;
+    border: none;
+}
+.foter{margin-top: 25px;}
+.foter p{color: red;
+font-weight: bold;
+padding-left: 30px;}
+.foter span{ color: #648cff;}
+
+
+
+.reserve{
+    margin-top: 60px;
+}
+
+
+.reserve p{
+    color: #648cff;
+}
+
+
+.custm_a{
+    background-color: #434769;
+    margin-right: 150px!important;
+    padding: 10px;
+}
+
+
+
+
+
+
+
